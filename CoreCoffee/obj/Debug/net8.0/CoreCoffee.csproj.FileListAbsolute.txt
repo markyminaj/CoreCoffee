@@ -136,3 +136,4 @@
 /Users/Markyminaj/Desktop/Personal Apps/CoreCoffee/CoreCoffee/obj/Debug/net8.0/CoreCoffee.pdb
 /Users/Markyminaj/Desktop/Personal Apps/CoreCoffee/CoreCoffee/obj/Debug/net8.0/CoreCoffee.genruntimeconfig.cache
 /Users/Markyminaj/Desktop/Personal Apps/CoreCoffee/CoreCoffee/obj/Debug/net8.0/ref/CoreCoffee.dll
+/Users/Markyminaj/Desktop/Personal Apps/CoreCoffee/CoreCoffee/obj/Debug/net8.0/CoreCoffee.sourcelink.json
